@@ -69,6 +69,11 @@ I am a 2nd-year CS student passionate about building intelligent systems. My exp
 
 ---
 
+### 📈 Weekly Coding Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIrfannnnn&theme=tokyonight)
+
+---
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsirfanlatif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedirfanadenwla@gmail.com)
