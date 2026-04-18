@@ -73,8 +73,9 @@ I am a 2nd-year CS student passionate about building intelligent systems. My exp
 
 ---
 
-### 🟩 My 3D Contribution Calendar
-![3D Calendar](https://github-readme-stats.vercel.app/api/calendar?username=MuhammadIrfannnnn&theme=tokyonight)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=100&section=footer&text=SYSTEM%20ACTIVE%20-%20DEVELOPER%20MODE&fontSize=20&animation=fadeIn&fontAlignY=50" width="100%"/>
+</p>
 
 ---
 
