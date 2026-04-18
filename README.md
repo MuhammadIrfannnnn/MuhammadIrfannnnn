@@ -73,8 +73,8 @@ I am a 2nd-year CS student passionate about building intelligent systems. My exp
 
 ---
 
-### 🌌 My Contribution Skyline
-![Skyline](https://github-profile-3d-contrib.vercel.app/api?username=MuhammadIrfannnnn&theme=tokyonight)
+### 🟩 My 3D Contribution Calendar
+![3D Calendar](https://github-readme-stats.vercel.app/api/calendar?username=MuhammadIrfannnnn&theme=tokyonight)
 
 ---
 
