@@ -59,7 +59,7 @@ I am a 2nd-year CS student passionate about building intelligent systems. My exp
 
 **🎮 Software Fundamentals**
 * **Flappy Bird:** Developed using Object-Oriented Programming (OOP).
-* **Gym Management System:** End-to-end management tool (C++).
+* **Gym Management System:** End-to-end management tool (C).
 * **Recipe Website:** Responsive site created for ICT.
 * **Stopwatch:** Low-level logic design (DLD).
 
