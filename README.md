@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Building+LLM-OS+Architecture;Training+SegFormer+Models;Optimizing+A*+Search+Algorithms;Winner+of+CV+AI+Hackathon+2026" alt="Typing SVG" />
 </p>
 
-### 🚀 Computer Engineering Student | AI & Systems Enthusiast
+### 🚀 Computer Science Student | AI & Systems Enthusiast
 I am a 2nd-year CS student passionate about building intelligent systems. My expertise spans from high-level Computer Vision models to low-level x86 Assembly. I love turning complex data into actionable insights and efficient code.
 
 ---
