@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Irfan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Building+LLM-OS+Architecture;Training+SegFormer+Models;Optimizing+A*+Search+Algorithms;Winner+of+CV+AI+Hackathon+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Building+LLM-OS+Architecture;Training+SegFormer+Models;Winner+of+CV+AI+Hackathon+2026" alt="Typing SVG" />
 </p>
 
 ### 🚀 Computer Science Student | AI & Systems Enthusiast
